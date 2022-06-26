@@ -1,0 +1,506 @@
+Symbol,Name,Sector
+A,Agilent Technologies,Health Care
+AAL,American Airlines Group,Industrials
+AAP,Advance Auto Parts,Consumer Discretionary
+AAPL,Apple,Information Technology
+ABBV,AbbVie,Health Care
+ABC,AmerisourceBergen,Health Care
+ABMD,Abiomed,Health Care
+ABT,Abbott Laboratories,Health Care
+ACN,Accenture,Information Technology
+ADBE,Adobe,Information Technology
+ADI,Analog Devices,Information Technology
+ADM,ADM,Consumer Staples
+ADP,Automatic Data Processing,Information Technology
+ADSK,Autodesk,Information Technology
+AEE,Ameren Corp,Utilities
+AEP,American Electric Power,Utilities
+AES,AES Corp,Utilities
+AFL,Aflac,Financials
+AIG,American International Group,Financials
+AIZ,Assurant,Financials
+AJG,Arthur J. Gallagher & Co.,Financials
+AKAM,Akamai Technologies,Information Technology
+ALB,Albemarle Corporation,Materials
+ALGN,Align Technology,Health Care
+ALK,Alaska Air Group,Industrials
+ALL,Allstate Corp,Financials
+ALLE,Allegion,Industrials
+AMAT,Applied Materials,Information Technology
+AMCR,Amcor,Materials
+AMD,Advanced Micro Devices,Information Technology
+AME,Ametek,Industrials
+AMGN,Amgen,Health Care
+AMP,Ameriprise Financial,Financials
+AMT,American Tower,Real Estate
+AMZN,Amazon,Consumer Discretionary
+ANET,Arista Networks,Information Technology
+ANSS,Ansys,Information Technology
+ANTM,Anthem,Health Care
+AON,Aon,Financials
+AOS,A. O. Smith,Industrials
+APA,APA Corporation,Energy
+APD,Air Products & Chemicals,Materials
+APH,Amphenol,Information Technology
+APTV,Aptiv,Consumer Discretionary
+ARE,Alexandria Real Estate Equities,Real Estate
+ATO,Atmos Energy,Utilities
+ATVI,Activision Blizzard,Communication Services
+AVB,AvalonBay Communities,Real Estate
+AVGO,Broadcom,Information Technology
+AVY,Avery Dennison,Materials
+AWK,American Water Works,Utilities
+AXP,American Express,Financials
+AZO,AutoZone,Consumer Discretionary
+BA,Boeing,Industrials
+BAC,Bank of America,Financials
+BAX,Baxter International,Health Care
+BBWI,Bath & Body Works Inc.,Consumer Discretionary
+BBY,Best Buy,Consumer Discretionary
+BDX,Becton Dickinson,Health Care
+BEN,Franklin Resources,Financials
+BF.B,Brown–Forman,Consumer Staples
+BIIB,Biogen,Health Care
+BIO,Bio-Rad Laboratories,Health Care
+BK,BNY Mellon,Financials
+BKNG,Booking Holdings,Consumer Discretionary
+BKR,Baker Hughes,Energy
+BLK,BlackRock,Financials
+BLL,Ball Corp,Materials
+BMY,Bristol Myers Squibb,Health Care
+BR,Broadridge Financial Solutions,Information Technology
+BRK.B,Berkshire Hathaway,Financials
+BRO,Brown & Brown,Financials
+BSX,Boston Scientific,Health Care
+BWA,BorgWarner,Consumer Discretionary
+BXP,Boston Properties,Real Estate
+C,Citigroup,Financials
+CAG,Conagra Brands,Consumer Staples
+CAH,Cardinal Health,Health Care
+CARR,Carrier Global,Industrials
+CAT,Caterpillar,Industrials
+CB,Chubb,Financials
+CBOE,Cboe Global Markets,Financials
+CBRE,CBRE,Real Estate
+CCI,Crown Castle,Real Estate
+CCL,Carnival Corporation,Consumer Discretionary
+CDAY,Ceridian,Information Technology
+CDNS,Cadence Design Systems,Information Technology
+CDW,CDW,Information Technology
+CE,Celanese,Materials
+CERN,Cerner,Health Care
+CF,CF Industries,Materials
+CFG,Citizens Financial Group,Financials
+CHD,Church & Dwight,Consumer Staples
+CHRW,C. H. Robinson,Industrials
+CHTR,Charter Communications,Communication Services
+CI,Cigna,Health Care
+CINF,Cincinnati Financial,Financials
+CL,Colgate-Palmolive,Consumer Staples
+CLX,Clorox,Consumer Staples
+CMA,Comerica,Financials
+CMCSA,Comcast,Communication Services
+CME,CME Group,Financials
+CMG,Chipotle Mexican Grill,Consumer Discretionary
+CMI,Cummins,Industrials
+CMS,CMS Energy,Utilities
+CNC,Centene Corporation,Health Care
+CNP,CenterPoint Energy,Utilities
+COF,Capital One Financial,Financials
+COO,The Cooper Companies,Health Care
+COP,ConocoPhillips,Energy
+COST,Costco,Consumer Staples
+CPB,Campbell Soup,Consumer Staples
+CPRT,Copart,Industrials
+CRL,Charles River Laboratories,Health Care
+CRM,Salesforce,Information Technology
+CSCO,Cisco Systems,Information Technology
+CSX,CSX,Industrials
+CTAS,Cintas Corporation,Industrials
+CTLT,Catalent,Health Care
+CTRA,Coterra,Energy
+CTSH,Cognizant Technology Solutions,Information Technology
+CTVA,Corteva,Materials
+CTXS,Citrix Systems,Information Technology
+CVS,CVS Health,Health Care
+CVX,Chevron Corporation,Energy
+CZR,Caesars Entertainment,Consumer Discretionary
+D,Dominion Energy,Utilities
+DAL,Delta Air Lines,Industrials
+DD,DuPont,Materials
+DE,Deere & Co.,Industrials
+DFS,Discover Financial Services,Financials
+DG,Dollar General,Consumer Discretionary
+DGX,Quest Diagnostics,Health Care
+DHI,D. R. Horton,Consumer Discretionary
+DHR,Danaher Corporation,Health Care
+DIS,The Walt Disney Company,Communication Services
+DISCA,Discovery (Series A),Communication Services
+DISCK,Discovery (Series C),Communication Services
+DISH,Dish Network,Communication Services
+DLR,Digital Realty Trust,Real Estate
+DLTR,Dollar Tree,Consumer Discretionary
+DOV,Dover Corporation,Industrials
+DOW,Dow,Materials
+DPZ,Domino's Pizza,Consumer Discretionary
+DRE,Duke Realty Corp,Real Estate
+DRI,Darden Restaurants,Consumer Discretionary
+DTE,DTE Energy,Utilities
+DUK,Duke Energy,Utilities
+DVA,DaVita,Health Care
+DVN,Devon Energy,Energy
+DXC,DXC Technology,Information Technology
+DXCM,DexCom,Health Care
+EA,Electronic Arts,Communication Services
+EBAY,eBay,Consumer Discretionary
+ECL,Ecolab,Materials
+ED,Consolidated Edison,Utilities
+EFX,Equifax,Industrials
+EIX,Edison International,Utilities
+EL,Estée Lauder Companies,Consumer Staples
+EMN,Eastman Chemical,Materials
+EMR,Emerson Electric Company,Industrials
+ENPH,Enphase Energy,Information Technology
+EOG,EOG Resources,Energy
+EQIX,Equinix,Real Estate
+EQR,Equity Residential,Real Estate
+ES,Eversource Energy,Utilities
+ESS,Essex Property Trust,Real Estate
+ETN,Eaton Corporation,Industrials
+ETR,Entergy,Utilities
+ETSY,Etsy,Consumer Discretionary
+EVRG,Evergy,Utilities
+EW,Edwards Lifesciences,Health Care
+EXC,Exelon,Utilities
+EXPD,Expeditors,Industrials
+EXPE,Expedia Group,Consumer Discretionary
+EXR,Extra Space Storage,Real Estate
+F,Ford,Consumer Discretionary
+FANG,Diamondback Energy,Energy
+FAST,Fastenal,Industrials
+FB,Facebook,Communication Services
+FBHS,Fortune Brands Home & Security,Industrials
+FCX,Freeport-McMoRan,Materials
+FDX,FedEx,Industrials
+FE,FirstEnergy,Utilities
+FFIV,F5 Networks,Information Technology
+FIS,Fidelity National Information Services,Information Technology
+FISV,Fiserv,Information Technology
+FITB,Fifth Third Bancorp,Financials
+FLT,Fleetcor,Information Technology
+FMC,FMC Corporation,Materials
+FOX,Fox Corporation (Class B),Communication Services
+FOXA,Fox Corporation (Class A),Communication Services
+FRC,First Republic Bank,Financials
+FRT,Federal Realty Investment Trust,Real Estate
+FTNT,Fortinet,Information Technology
+FTV,Fortive,Industrials
+GD,General Dynamics,Industrials
+GE,General Electric,Industrials
+GILD,Gilead Sciences,Health Care
+GIS,General Mills,Consumer Staples
+GL,Globe Life,Financials
+GLW,Corning,Information Technology
+GM,General Motors,Consumer Discretionary
+GNRC,Generac Holdings,Industrials
+GOOG,Alphabet (Class C),Communication Services
+GOOGL,Alphabet (Class A),Communication Services
+GPC,Genuine Parts,Consumer Discretionary
+GPN,Global Payments,Information Technology
+GPS,Gap,Consumer Discretionary
+GRMN,Garmin,Consumer Discretionary
+GS,Goldman Sachs,Financials
+GWW,W. W. Grainger,Industrials
+HAL,Halliburton,Energy
+HAS,Hasbro,Consumer Discretionary
+HBAN,Huntington Bancshares,Financials
+HBI,Hanesbrands,Consumer Discretionary
+HCA,HCA Healthcare,Health Care
+HD,Home Depot,Consumer Discretionary
+HES,Hess Corporation,Energy
+HIG,The Hartford,Financials
+HII,Huntington Ingalls Industries,Industrials
+HLT,Hilton Worldwide,Consumer Discretionary
+HOLX,Hologic,Health Care
+HON,Honeywell,Industrials
+HPE,Hewlett Packard Enterprise,Information Technology
+HPQ,HP,Information Technology
+HRL,Hormel,Consumer Staples
+HSIC,Henry Schein,Health Care
+HST,Host Hotels & Resorts,Real Estate
+HSY,The Hershey Company,Consumer Staples
+HUM,Humana,Health Care
+HWM,Howmet Aerospace,Industrials
+IBM,IBM,Information Technology
+ICE,Intercontinental Exchange,Financials
+IDXX,Idexx Laboratories,Health Care
+IEX,IDEX Corporation,Industrials
+IFF,International Flavors & Fragrances,Materials
+ILMN,Illumina,Health Care
+INCY,Incyte,Health Care
+INFO,IHS Markit,Industrials
+INTC,Intel,Information Technology
+INTU,Intuit,Information Technology
+IP,International Paper,Materials
+IPG,Interpublic Group,Communication Services
+IPGP,IPG Photonics,Information Technology
+IQV,IQVIA,Health Care
+IR,Ingersoll Rand,Industrials
+IRM,Iron Mountain,Real Estate
+ISRG,Intuitive Surgical,Health Care
+IT,Gartner,Information Technology
+ITW,Illinois Tool Works,Industrials
+IVZ,Invesco,Financials
+J,Jacobs Engineering Group,Industrials
+JBHT,J. B. Hunt,Industrials
+JCI,Johnson Controls,Industrials
+JKHY,Jack Henry & Associates,Information Technology
+JNJ,Johnson & Johnson,Health Care
+JNPR,Juniper Networks,Information Technology
+JPM,JPMorgan Chase,Financials
+K,Kellogg's,Consumer Staples
+KEY,KeyCorp,Financials
+KEYS,Keysight Technologies,Information Technology
+KHC,Kraft Heinz,Consumer Staples
+KIM,Kimco Realty,Real Estate
+KLAC,KLA Corporation,Information Technology
+KMB,Kimberly-Clark,Consumer Staples
+KMI,Kinder Morgan,Energy
+KMX,CarMax,Consumer Discretionary
+KO,Coca-Cola Company,Consumer Staples
+KR,Kroger,Consumer Staples
+KSU,Kansas City Southern,Industrials
+L,Loews Corporation,Financials
+LDOS,Leidos,Industrials
+LEG,Leggett & Platt,Consumer Discretionary
+LEN,Lennar,Consumer Discretionary
+LH,LabCorp,Health Care
+LHX,L3Harris Technologies,Industrials
+LIN,Linde,Materials
+LKQ,LKQ Corporation,Consumer Discretionary
+LLY,Eli Lilly & Co,Health Care
+LMT,Lockheed Martin,Industrials
+LNC,Lincoln National,Financials
+LNT,Alliant Energy,Utilities
+LOW,Lowe's,Consumer Discretionary
+LRCX,Lam Research,Information Technology
+LUMN,Lumen Technologies,Communication Services
+LUV,Southwest Airlines,Industrials
+LVS,Las Vegas Sands,Consumer Discretionary
+LW,Lamb Weston,Consumer Staples
+LYB,LyondellBasell,Materials
+LYV,Live Nation Entertainment,Communication Services
+MA,Mastercard,Information Technology
+MAA,Mid-America Apartments,Real Estate
+MAR,Marriott International,Consumer Discretionary
+MAS,Masco,Industrials
+MCD,McDonald's,Consumer Discretionary
+MCHP,Microchip Technology,Information Technology
+MCK,McKesson Corporation,Health Care
+MCO,Moody's Corporation,Financials
+MDLZ,Mondelez International,Consumer Staples
+MDT,Medtronic,Health Care
+MET,MetLife,Financials
+MGM,MGM Resorts International,Consumer Discretionary
+MHK,Mohawk Industries,Consumer Discretionary
+MKC,McCormick & Company,Consumer Staples
+MKTX,MarketAxess,Financials
+MLM,Martin Marietta Materials,Materials
+MMC,Marsh & McLennan,Financials
+MMM,3M,Industrials
+MNST,Monster Beverage,Consumer Staples
+MO,Altria Group,Consumer Staples
+MOS,The Mosaic Company,Materials
+MPC,Marathon Petroleum,Energy
+MPWR,Monolithic Power Systems,Information Technology
+MRK,Merck & Co.,Health Care
+MRNA,Moderna,Health Care
+MRO,Marathon Oil,Energy
+MS,Morgan Stanley,Financials
+MSCI,MSCI,Financials
+MSFT,Microsoft,Information Technology
+MSI,Motorola Solutions,Information Technology
+MTB,M&T Bank,Financials
+MTCH,Match Group,Communication Services
+MTD,Mettler Toledo,Health Care
+MU,Micron Technology,Information Technology
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary
+NDAQ,Nasdaq,Financials
+NEE,NextEra Energy,Utilities
+NEM,Newmont,Materials
+NFLX,Netflix,Communication Services
+NI,NiSource,Utilities
+NKE,Nike,Consumer Discretionary
+NLOK,NortonLifeLock,Information Technology
+NLSN,Nielsen Holdings,Industrials
+NOC,Northrop Grumman,Industrials
+NOW,ServiceNow,Information Technology
+NRG,NRG Energy,Utilities
+NSC,Norfolk Southern,Industrials
+NTAP,NetApp,Information Technology
+NTRS,Northern Trust,Financials
+NUE,Nucor,Materials
+NVDA,Nvidia,Information Technology
+NVR,NVR,Consumer Discretionary
+NWL,Newell Brands,Consumer Discretionary
+NWS,News Corp (Class B),Communication Services
+NWSA,News Corp (Class A),Communication Services
+NXPI,NXP,Information Technology
+O,Realty Income Corporation,Real Estate
+ODFL,Old Dominion Freight Line,Industrials
+OGN,Organon & Co.,Health Care
+OKE,Oneok,Energy
+OMC,Omnicom Group,Communication Services
+ORCL,Oracle,Information Technology
+ORLY,O'Reilly Automotive,Consumer Discretionary
+OTIS,Otis Worldwide,Industrials
+OXY,Occidental Petroleum,Energy
+PAYC,Paycom,Information Technology
+PAYX,Paychex,Information Technology
+PBCT,People's United Financial,Financials
+PCAR,Paccar,Industrials
+PEAK,Healthpeak Properties,Real Estate
+PEG,Public Service Enterprise Group,Utilities
+PENN,Penn National Gaming,Consumer Discretionary
+PEP,PepsiCo,Consumer Staples
+PFE,Pfizer,Health Care
+PFG,Principal Financial Group,Financials
+PG,Procter & Gamble,Consumer Staples
+PGR,Progressive Corporation,Financials
+PH,Parker-Hannifin,Industrials
+PHM,PulteGroup,Consumer Discretionary
+PKG,Packaging Corporation of America,Materials
+PKI,PerkinElmer,Health Care
+PLD,Prologis,Real Estate
+PM,Philip Morris International,Consumer Staples
+PNC,PNC Financial Services,Financials
+PNR,Pentair,Industrials
+PNW,Pinnacle West Capital,Utilities
+POOL,Pool Corporation,Consumer Discretionary
+PPG,PPG Industries,Materials
+PPL,PPL,Utilities
+PRU,Prudential Financial,Financials
+PSA,Public Storage,Real Estate
+PSX,Phillips 66,Energy
+PTC,PTC,Information Technology
+PVH,PVH,Consumer Discretionary
+PWR,Quanta Services,Industrials
+PXD,Pioneer Natural Resources,Energy
+PYPL,PayPal,Information Technology
+QCOM,Qualcomm,Information Technology
+QRVO,Qorvo,Information Technology
+RCL,Royal Caribbean Group,Consumer Discretionary
+RE,Everest Re,Financials
+REG,Regency Centers,Real Estate
+REGN,Regeneron Pharmaceuticals,Health Care
+RF,Regions Financial Corporation,Financials
+RHI,Robert Half International,Industrials
+RJF,Raymond James Financial,Financials
+RL,Ralph Lauren Corporation,Consumer Discretionary
+RMD,ResMed,Health Care
+ROK,Rockwell Automation,Industrials
+ROL,Rollins,Industrials
+ROP,Roper Technologies,Industrials
+ROST,Ross Stores,Consumer Discretionary
+RSG,Republic Services,Industrials
+RTX,Raytheon Technologies,Industrials
+SBAC,SBA Communications,Real Estate
+SBUX,Starbucks,Consumer Discretionary
+SCHW,Charles Schwab Corporation,Financials
+SEE,Sealed Air,Materials
+SHW,Sherwin-Williams,Materials
+SIVB,SVB Financial,Financials
+SJM,JM Smucker,Consumer Staples
+SLB,Schlumberger,Energy
+SNA,Snap-on,Industrials
+SNPS,Synopsys,Information Technology
+SO,Southern Company,Utilities
+SPG,Simon Property Group,Real Estate
+SPGI,S&P Global,Financials
+SRE,Sempra Energy,Utilities
+STE,Steris,Health Care
+STT,State Street Corporation,Financials
+STX,Seagate Technology,Information Technology
+STZ,Constellation Brands,Consumer Staples
+SWK,Stanley Black & Decker,Industrials
+SWKS,Skyworks Solutions,Information Technology
+SYF,Synchrony Financial,Financials
+SYK,Stryker Corporation,Health Care
+SYY,Sysco,Consumer Staples
+T,AT&T,Communication Services
+TAP,Molson Coors Beverage Company,Consumer Staples
+TDG,TransDigm Group,Industrials
+TDY,Teledyne Technologies,Industrials
+TECH,Bio-Techne,Health Care
+TEL,TE Connectivity,Information Technology
+TER,Teradyne,Information Technology
+TFC,Truist Financial,Financials
+TFX,Teleflex,Health Care
+TGT,Target Corporation,Consumer Discretionary
+TJX,TJX Companies,Consumer Discretionary
+TMO,Thermo Fisher Scientific,Health Care
+TMUS,T-Mobile US,Communication Services
+TPR,Tapestry,Consumer Discretionary
+TRMB,Trimble,Information Technology
+TROW,T. Rowe Price,Financials
+TRV,The Travelers Companies,Financials
+TSCO,Tractor Supply Company,Consumer Discretionary
+TSLA,Tesla,Consumer Discretionary
+TSN,Tyson Foods,Consumer Staples
+TT,Trane Technologies,Industrials
+TTWO,Take-Two Interactive,Communication Services
+TWTR,Twitter,Communication Services
+TXN,Texas Instruments,Information Technology
+TXT,Textron,Industrials
+TYL,Tyler Technologies,Information Technology
+UA,Under Armour (Class C),Consumer Discretionary
+UAA,Under Armour (Class A),Consumer Discretionary
+UAL,United Airlines,Industrials
+UDR,UDR,Real Estate
+UHS,Universal Health Services,Health Care
+ULTA,Ulta Beauty,Consumer Discretionary
+UNH,UnitedHealth Group,Health Care
+UNP,Union Pacific,Industrials
+UPS,United Parcel Service,Industrials
+URI,United Rentals,Industrials
+USB,U.S. Bancorp,Financials
+V,Visa,Information Technology
+VFC,VF Corporation,Consumer Discretionary
+VIAC,ViacomCBS,Communication Services
+VLO,Valero Energy,Energy
+VMC,Vulcan Materials,Materials
+VNO,Vornado Realty Trust,Real Estate
+VRSK,Verisk Analytics,Industrials
+VRSN,Verisign,Information Technology
+VRTX,Vertex Pharmaceuticals,Health Care
+VTR,Ventas,Real Estate
+VTRS,Viatris,Health Care
+VZ,Verizon Communications,Communication Services
+WAB,Wabtec,Industrials
+WAT,Waters Corporation,Health Care
+WBA,Walgreens Boots Alliance,Consumer Staples
+WDC,Western Digital,Information Technology
+WEC,WEC Energy Group,Utilities
+WELL,Welltower,Real Estate
+WFC,Wells Fargo,Financials
+WHR,Whirlpool Corporation,Consumer Discretionary
+WLTW,Willis Towers Watson,Financials
+WM,Waste Management,Industrials
+WMB,Williams Companies,Energy
+WMT,Walmart,Consumer Staples
+WRB,W. R. Berkley Corporation,Financials
+WRK,WestRock,Materials
+WST,West Pharmaceutical Services,Health Care
+WU,Western Union,Information Technology
+WY,Weyerhaeuser,Real Estate
+WYNN,Wynn Resorts,Consumer Discretionary
+XEL,Xcel Energy,Utilities
+XLNX,Xilinx,Information Technology
+XOM,ExxonMobil,Energy
+XRAY,Dentsply Sirona,Health Care
+XYL,Xylem,Industrials
+YUM,Yum! Brands,Consumer Discretionary
+ZBH,Zimmer Biomet,Health Care
+ZBRA,Zebra Technologies,Information Technology
+ZION,Zions Bancorp,Financials
+ZTS,Zoetis,Health Care
